@@ -1,5 +1,5 @@
 # SH2017
-Code accompanying Schmidt-Hieber et al., 2017
+Code accompanying [Schmidt-Hieber et al., 2017](https://www.nature.com/neuro/journal/v20/n8/full/nn.4582.html)
 
 ## cable
 Compartmental cell model files
